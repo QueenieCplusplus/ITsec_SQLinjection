@@ -3,7 +3,7 @@
 
 透過修改從 Web app 送到 DB 的 SQL 敘述，即稱為 SQL 注入，或稱為 SQLi。
 
-# Detect this Bug
+# Detect this Attacks
 
 * Length, 可疑請求的內容長度
 
