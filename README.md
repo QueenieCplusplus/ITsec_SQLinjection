@@ -21,4 +21,6 @@
 
 3. 盲目執行惡意腳本
 
+ https://github.com/QueenieCplusplus/ITsec_SQLinjection/blob/master/SQL_injection.js
+
 
