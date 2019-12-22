@@ -74,4 +74,4 @@ function retrieveChar(index, seconds, position){
 	doRequest(index, seconds, position);
 }
 
-https://browserhacker.com/code/code_index.html
+// https://browserhacker.com/code/code_index.html
